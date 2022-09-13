@@ -1,6 +1,5 @@
 #!/bin/bash
 
-## Author: Sandip Rana
 ## Purpose: This script produces a report of all instances across all regions across your tenancy that are in a "RUNNING" state. 
 ## How to run : (a) from the OCI Cloud Shell
 ##              (b) from a Linux host where OCI CLI is installed. 
