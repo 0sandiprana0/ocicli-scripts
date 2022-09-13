@@ -1,6 +1,5 @@
 #!/bin/bash
 
-## Author: Sandip Rana
 ## Purpose: This script produces a summary report of instances across all regions across your tenancy. 
 ##          It will include the lifecycle state of the Compute instance.
 ## How to run : (a) from the OCI Cloud Shell
